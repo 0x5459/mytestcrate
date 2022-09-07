@@ -7,6 +7,7 @@ pub fn append(s: impl Into<String>) {
     }
 }
 
+// just add comment
 pub fn get() -> &'static Vec<String> {
     unsafe { &X }
 }
