@@ -1,6 +1,6 @@
 [package]
 name = "mytestcrate"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2021"
 authors = ["0x5459 <0x5459@protonmail.com>"]
 description = "my test crate"
